@@ -12,4 +12,4 @@
 
 - 💬 Ask me about C# (.NET Core)
 
-- ⚡ Fun fact: I love music and movies. I´m DJ & Music Producer. I also love nature and traveling around the world.
+- ⚡ Fun fact: I´m a DJ and music producer. I love music & movies. I also love nature and traveling around the world.
