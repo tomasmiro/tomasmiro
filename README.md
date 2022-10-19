@@ -10,6 +10,6 @@
 
 - 🤔 I’m looking for help with Angular & React.
 
-- 💬 Ask me about C# (.NET Core)
+- 💬 Ask me about C# (ASP .NET Core)
 
 - ⚡ Fun fact: I´m a DJ and music producer. I love music & movies. I also love nature and traveling around the world.
